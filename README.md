@@ -133,15 +133,6 @@ pip install -r requirements.txt
 - No persistence - events are lost when the program exits
 - No event priority system implemented
 
-## Future Enhancements
-
-- [ ] Add event priorities
-- [ ] Implement event persistence (save/load from file)
-- [ ] Add timestamps to events
-- [ ] Implement event scheduling with time delays
-- [ ] Add event categories or tags
-- [ ] Create a web-based interface
-
 ## Contributing
 
 1. Fork the repository
@@ -150,13 +141,9 @@ pip install -r requirements.txt
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-Project Link: [https://github.com/yourusername/event-processing-system](https://github.com/yourusername/event-processing-system)
+Project Link: [https://github.com/yourusername/event-processing-system](https://github.com/mayurroro/event-processing-system)
 
 ## Acknowledgments
 
