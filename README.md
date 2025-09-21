@@ -143,7 +143,7 @@ pip install -r requirements.txt
 
 ## Contact
 
-Project Link: [https://github.com/yourusername/event-processing-system](https://github.com/mayurroro/event-processing-system)
+Project Link: [https://github.com/mayurroro/event-processing-system](https://github.com/mayurroro/event-processing-system)
 
 ## Acknowledgments
 
